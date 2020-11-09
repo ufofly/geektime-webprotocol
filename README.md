@@ -65,5 +65,4 @@ https://www.wireshark.org/docs/wsug_html_chunked/
 * 私有网络IP地址分配 [RFC1918](https://tools.ietf.org/html/rfc1918 "rfc1918")
 # 2.5 协议
 DNS协议 https://www.inacon.de/ph/data/DNS/
-# 3 课程订阅方式
-![购买课程](https://github.com/russelltao/geektime-webprotocol/blob/master/poster.jpg)
+
